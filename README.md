@@ -114,7 +114,7 @@
 ## Geeksforgeeks Statistics:
 <center>
 
-![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=venkatesh1545)
+![geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=venkatesh1545)
 
 </center>
 
