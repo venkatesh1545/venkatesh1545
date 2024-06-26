@@ -92,14 +92,19 @@
 
 
 ## Github Statistics:
-<center>
-<div style="display: inline-block; width: 49%;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=venkatesh1545&show_icons=true&theme=radical" alt="mystats" />
+<div style="display: flex; justify-content: space-between; align-items: center; background-color: #1E1E1E; padding: 20px; border-radius: 10px; color: white; font-family: Arial, sans-serif;">
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh1545&layout=compact&theme=radical" alt="Top Langs" />
+  </div>
+
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=venkatesh1545&show_icons=true&theme=radical" alt="mystats" />
+  </div>
+
 </div>
-<div style="display: inline-block; width: 37%; height: 45%">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh1545&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-</center>
+
+
 
 ## Leetcode Statistics:
 <center>
